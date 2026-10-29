@@ -1,0 +1,13 @@
+{
+  "name": "cooknest-books-open-engine",
+  "private": true,
+  "description": "Open pagination engine for CookNest Books (Vivliostyle in the browser and in headless Chromium). docs/proposals/books-engine.md",
+  "dependencies": {
+    "@vivliostyle/core": "2.45.2",
+    "pdf-lib": "1.17.1",
+    "playwright": "1.64.1"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.10"
+  }
+}
