@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: AGPL-3.0-only. Copyright CookNest. Source: https://github.com/encinascarles/cooknest-books-engine */
 /* CookNest Books open engine, browser side (docs/proposals/books-engine.md).
  *
  * The book is a list of blocks (a fixed page, a pair of fixed pages, a
